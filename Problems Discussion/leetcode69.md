@@ -20,3 +20,6 @@ class Solution {
     }
 }
 ```
+
+- why long is used for sqr?
+- why typecasting was needed in this case?
